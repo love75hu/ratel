@@ -1,1 +1,1 @@
-FORM dotbalo/ratel:latest
+FROM dotbalo/ratel:latest
